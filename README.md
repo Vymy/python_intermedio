@@ -1,4 +1,4 @@
 # python_intermedio
 Práctica
-print("Buenas tardes, que es esto? ni idea")
-print("Nuevo cambio bro")
+Buenas tardes, que es esto? ni idea
+Nuevo cambio bro
